@@ -33,7 +33,7 @@
 </style>
 <body>
 <div class="content">
-    <h1 style="text-align: center; color: yellow"; >REGISTRATION FORM</h1>
+    <h1 style="text-align: center; color: yellow"; >WELCOME TO REGISTRATION FORM</h1>
     <div id="myDIV">
 <form>
 <table
